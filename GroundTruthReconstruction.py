@@ -43,7 +43,7 @@ VOXEL_PER_MM = 10
 def ground_truth_reconstruction(
     data_path: Path,
     walnut_id: int,
-    angluar_sub_sampling: int,
+    angular_sub_sampling: int,
     angular_start_index: int,
     recon_path: Path | None = None,
 ):
@@ -70,9 +70,9 @@ def ground_truth_reconstruction(
 
     # And create the numpy array receiving the motor positions read from the geometry file
     vecs = np.zeros((0, 12), dtype=np.float32)
-    nb_projs_orbit = len(range(angular_start_index, 1200, angluar_sub_sampling))
+    nb_projs_orbit = len(range(angular_start_index, 1200, angular_sub_sampling))
     # projection file indices, we need to read in the projection in reverse order due to the portrait mode acquision
-    projs_idx = range(1200, angular_start_index, -angluar_sub_sampling)
+    projs_idx = range(1200, angular_start_index, -angular_sub_sampling)
 
     # transformation to apply to each image, we need to get the image from
     # the way the scanner reads it out into to way described in the projection
@@ -89,7 +89,7 @@ def ground_truth_reconstruction(
 
         # get the positions we need; there are in fact 1201, but the last and first one come from the same angle
         vecs = np.concatenate(
-            (vecs, vecs_orbit[range(0, 1200, angluar_sub_sampling)]), axis=0
+            (vecs, vecs_orbit[range(0, 1200, angular_sub_sampling)]), axis=0
         )
 
         # load flat-field and dark-fields
@@ -199,7 +199,7 @@ def ground_truth_reconstruction(
     # construct full path for storing the results
     recon_path_full = (
         recon_path
-        / f"Walnut{walnut_id}/ass{angluar_sub_sampling}_asi{angular_start_index}"
+        / f"Walnut{walnut_id}/ass{angular_sub_sampling}_asi{angular_start_index}"
     )
 
     # create the directory in case it doesn't exist yet
@@ -214,7 +214,7 @@ def ground_truth_reconstruction(
     for i in range(vol_sz[0]):
         slice_path = (
             recon_path_full
-            / f"nnls_{orbit_str}_iter{nb_iter}_ass{angluar_sub_sampling}_asi{angular_start_index}_vmm{VOXEL_PER_MM}_{i:06d}.tiff"
+            / f"nnls_{orbit_str}_iter{nb_iter}_ass{angular_sub_sampling}_asi{angular_start_index}_vmm{VOXEL_PER_MM}_{i:06d}.tiff"
         )
         imageio.imwrite(slice_path, vol_rec[i, ...])
 

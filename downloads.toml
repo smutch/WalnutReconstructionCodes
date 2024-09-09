@@ -1,167 +1,168 @@
 [Walnut1]
-url = "https://zenodo.org/api/records/2686726/files/Walnut1.zip"
-checksum = "md5:0ecd525f245e3029788538a44f5491e3"
+url = "https://zenodo.org/records/2686726/files/Walnut1.zip?download=1"
+checksum = "0ecd525f245e3029788538a44f5491e3"
 
 [Walnut2]
-url = "https://zenodo.org/api/records/2686726/files/Walnut2.zip"
-checksum = "md5:cbfcc727e2d0d1c50eca460adadab47b"
+url = "https://zenodo.org/records/2686726/files/Walnut2.zip?download=1"
+checksum = "cbfcc727e2d0d1c50eca460adadab47b"
 
 [Walnut3]
-url = "https://zenodo.org/api/records/2686726/files/Walnut3.zip"
-checksum = "md5:7f29d9796f4561e986153190b8569589"
+url = "https://zenodo.org/records/2686726/files/Walnut3.zip?download=1"
+checksum = "7f29d9796f4561e986153190b8569589"
 
 [Walnut4]
-url = "https://zenodo.org/api/records/2686726/files/Walnut4.zip"
-checksum = "md5:ba7cb91085dea4d5c8bffdf74c40459f"
+url = "https://zenodo.org/records/2686726/files/Walnut4.zip?download=1"
+checksum = "ba7cb91085dea4d5c8bffdf74c40459f"
 
 [Walnut5]
-url = "https://zenodo.org/api/records/2686726/files/Walnut5.zip"
-checksum = "md5:4c94ea61cea76eb423867fb7f68e7f14"
+url = "https://zenodo.org/records/2686726/files/Walnut5.zip?download=1"
+checksum = "4c94ea61cea76eb423867fb7f68e7f14"
 
 [Walnut6]
-url = "https://zenodo.org/api/records/2686726/files/Walnut6.zip"
-checksum = "md5:ac43a40e5858bd7437ce706d5129dc93"
+url = "https://zenodo.org/records/2686726/files/Walnut6.zip?download=1"
+checksum = "ac43a40e5858bd7437ce706d5129dc93"
 
 [Walnut7]
-url = "https://zenodo.org/api/records/2686726/files/Walnut7.zip"
-checksum = "md5:86b555a3a440abbefbd6543a5c72878f"
+url = "https://zenodo.org/records/2686726/files/Walnut7.zip?download=1"
+checksum = "86b555a3a440abbefbd6543a5c72878f"
 
 [Walnut8]
-url = "https://zenodo.org/api/records/2686726/files/Walnut8.zip"
-checksum = "md5:1916468383f78531a07320fd944f90ad"
+url = "https://zenodo.org/records/2686726/files/Walnut8.zip?download=1"
+checksum = "1916468383f78531a07320fd944f90ad"
 
 [Walnut9]
-url = "https://zenodo.org/api/records/2686971/files/Walnut9.zip"
-checksum = "md5:5ea3d60b371d2a81f0aa620b3cad050f"
+url = "https://zenodo.org/records/2686971/files/Walnut9.zip?download=1"
+checksum = "5ea3d60b371d2a81f0aa620b3cad050f"
 
 [Walnut10]
-url = "https://zenodo.org/api/records/2686971/files/Walnut10.zip"
-checksum = "md5:5debc73f5961e70cc12ef91ee425857c"
+url = "https://zenodo.org/records/2686971/files/Walnut10.zip?download=1"
+checksum = "5debc73f5961e70cc12ef91ee425857c"
 
 [Walnut11]
-url = "https://zenodo.org/api/records/2686971/files/Walnut11.zip"
-checksum = "md5:1c4075d21cdce0ccf738cae352e6c370"
+url = "https://zenodo.org/records/2686971/files/Walnut11.zip?download=1"
+checksum = "1c4075d21cdce0ccf738cae352e6c370"
 
 [Walnut12]
-url = "https://zenodo.org/api/records/2686971/files/Walnut12.zip"
-checksum = "md5:248f7b1f74a33a0d57bf105d465ce104"
+url = "https://zenodo.org/records/2686971/files/Walnut12.zip?download=1"
+checksum = "248f7b1f74a33a0d57bf105d465ce104"
 
 [Walnut13]
-url = "https://zenodo.org/api/records/2686971/files/Walnut13.zip"
-checksum = "md5:033559564f4eedcc7d1371911cf69b8e"
+url = "https://zenodo.org/records/2686971/files/Walnut13.zip?download=1"
+checksum = "033559564f4eedcc7d1371911cf69b8e"
 
 [Walnut14]
-url = "https://zenodo.org/api/records/2686971/files/Walnut14.zip"
-checksum = "md5:d9011423339fdb55c8ab53775f02da50"
+url = "https://zenodo.org/records/2686971/files/Walnut14.zip?download=1"
+checksum = "d9011423339fdb55c8ab53775f02da50"
 
 [Walnut15]
-url = "https://zenodo.org/api/records/2686971/files/Walnut15.zip"
-checksum = "md5:98274775d0599397e1b2d2c76ac850bc"
+url = "https://zenodo.org/records/2686971/files/Walnut15.zip?download=1"
+checksum = "98274775d0599397e1b2d2c76ac850bc"
 
 [Walnut16]
-url = "https://zenodo.org/api/records/2686971/files/Walnut16.zip"
-checksum = "md5:a30cbae73971ff4af2b6945111cd0095"
+url = "https://zenodo.org/records/2686971/files/Walnut16.zip?download=1"
+checksum = "a30cbae73971ff4af2b6945111cd0095"
 
 [Walnut17]
-url = "https://zenodo.org/api/records/2687387/files/Walnut17.zip"
-checksum = "md5:070fa9fbcbca63198a08ad491af6bd67"
+url = "https://zenodo.org/records/2687387/files/Walnut17.zip?download=1"
+checksum = "070fa9fbcbca63198a08ad491af6bd67"
 
 [Walnut18]
-url = "https://zenodo.org/api/records/2687387/files/Walnut18.zip"
-checksum = "md5:5e30c125747a8fb42dd7ddcf087b9d78"
+url = "https://zenodo.org/records/2687387/files/Walnut18.zip?download=1"
+checksum = "5e30c125747a8fb42dd7ddcf087b9d78"
 
 [Walnut19]
-url = "https://zenodo.org/api/records/2687387/files/Walnut19.zip"
-checksum = "md5:17de3ed2e0b798692dab207d34f45319"
+url = "https://zenodo.org/records/2687387/files/Walnut19.zip?download=1"
+checksum = "17de3ed2e0b798692dab207d34f45319"
 
 [Walnut20]
-url = "https://zenodo.org/api/records/2687387/files/Walnut20.zip"
-checksum = "md5:737651f9089f7a632b37328bc1fe8daf"
+url = "https://zenodo.org/records/2687387/files/Walnut20.zip?download=1"
+checksum = "737651f9089f7a632b37328bc1fe8daf"
 
 [Walnut21]
-url = "https://zenodo.org/api/records/2687387/files/Walnut21.zip"
-checksum = "md5:312c5ff99009edce3d64af976a5e6ab0"
+url = "https://zenodo.org/records/2687387/files/Walnut21.zip?download=1"
+checksum = "312c5ff99009edce3d64af976a5e6ab0"
 
 [Walnut22]
-url = "https://zenodo.org/api/records/2687387/files/Walnut22.zip"
-checksum = "md5:c165fee27e28dc21ced4af0e3f47a3c7"
+url = "https://zenodo.org/records/2687387/files/Walnut22.zip?download=1"
+checksum = "c165fee27e28dc21ced4af0e3f47a3c7"
 
 [Walnut23]
-url = "https://zenodo.org/api/records/2687387/files/Walnut23.zip"
-checksum = "md5:b364a23e7f0880806b77b2aca9d60475"
+url = "https://zenodo.org/records/2687387/files/Walnut23.zip?download=1"
+checksum = "b364a23e7f0880806b77b2aca9d60475"
 
 [Walnut24]
-url = "https://zenodo.org/api/records/2687387/files/Walnut24.zip"
-checksum = "md5:8eea79e34559688cdd666f1e16421c37"
+url = "https://zenodo.org/records/2687387/files/Walnut24.zip?download=1"
+checksum = "8eea79e34559688cdd666f1e16421c37"
 
 [Walnut25]
-url = "https://zenodo.org/api/records/2687635/files/Walnut25.zip"
-checksum = "md5:3726c0617c5d39eac580c7813966364f"
+url = "https://zenodo.org/records/2687635/files/Walnut25.zip?download=1"
+checksum = "3726c0617c5d39eac580c7813966364f"
 
 [Walnut26]
-url = "https://zenodo.org/api/records/2687635/files/Walnut26.zip"
-checksum = "md5:7655feeca6e9d9ead0f33aa0bbb6d572"
+url = "https://zenodo.org/records/2687635/files/Walnut26.zip?download=1"
+checksum = "7655feeca6e9d9ead0f33aa0bbb6d572"
 
 [Walnut27]
-url = "https://zenodo.org/api/records/2687635/files/Walnut27.zip"
-checksum = "md5:de363ccaca5be1862e2b2a02c1da4d5f"
+url = "https://zenodo.org/records/2687635/files/Walnut27.zip?download=1"
+checksum = "de363ccaca5be1862e2b2a02c1da4d5f"
 
 [Walnut28]
-url = "https://zenodo.org/api/records/2687635/files/Walnut28.zip"
-checksum = "md5:720acc52dfd6b62829ef3e3e7c7aad2f"
+url = "https://zenodo.org/records/2687635/files/Walnut28.zip?download=1"
+checksum = "720acc52dfd6b62829ef3e3e7c7aad2f"
 
 [Walnut29]
-url = "https://zenodo.org/api/records/2687635/files/Walnut29.zip"
-checksum = "md5:73dda3e48c62a947ae1c7478e59297d7"
+url = "https://zenodo.org/records/2687635/files/Walnut29.zip?download=1"
+checksum = "73dda3e48c62a947ae1c7478e59297d7"
 
 [Walnut30]
-url = "https://zenodo.org/api/records/2687635/files/Walnut30.zip"
-checksum = "md5:75d91a1870135f103f0ee84731c2a64e"
+url = "https://zenodo.org/records/2687635/files/Walnut30.zip?download=1"
+checksum = "75d91a1870135f103f0ee84731c2a64e"
 
 [Walnut31]
-url = "https://zenodo.org/api/records/2687635/files/Walnut31.zip"
-checksum = "md5:3a3cd99f32b651ffa82665beff51bdd4"
+url = "https://zenodo.org/records/2687635/files/Walnut31.zip?download=1"
+checksum = "3a3cd99f32b651ffa82665beff51bdd4"
 
 [Walnut32]
-url = "https://zenodo.org/api/records/2687635/files/Walnut32.zip"
-checksum = "md5:8b511c8a9cdd313dbeab6e4b60eb37b4"
+url = "https://zenodo.org/records/2687635/files/Walnut32.zip?download=1"
+checksum = "8b511c8a9cdd313dbeab6e4b60eb37b4"
 
 [Walnut33]
-url = "https://zenodo.org/api/records/2687897/files/Walnut33.zip"
-checksum = "md5:f830d5dcba903ab2628539254f651ccb"
+url = "https://zenodo.org/records/2687897/files/Walnut33.zip?download=1"
+checksum = "f830d5dcba903ab2628539254f651ccb"
 
 [Walnut34]
-url = "https://zenodo.org/api/records/2687897/files/Walnut34.zip"
-checksum = "md5:fb0be2b47cb9a86652a605ee1452b077"
+url = "https://zenodo.org/records/2687897/files/Walnut34.zip?download=1"
+checksum = "fb0be2b47cb9a86652a605ee1452b077"
 
 [Walnut35]
-url = "https://zenodo.org/api/records/2687897/files/Walnut35.zip"
-checksum = "md5:655cd1fade700b79a95c7790a1322b59"
+url = "https://zenodo.org/records/2687897/files/Walnut35.zip?download=1"
+checksum = "655cd1fade700b79a95c7790a1322b59"
 
 [Walnut36]
-url = "https://zenodo.org/api/records/2687897/files/Walnut36.zip"
-checksum = "md5:9e05df1b7cc71f2236cc3779cdb95312"
+url = "https://zenodo.org/records/2687897/files/Walnut36.zip?download=1"
+checksum = "9e05df1b7cc71f2236cc3779cdb95312"
 
 [Walnut37]
-url = "https://zenodo.org/api/records/2687897/files/Walnut37.zip"
-checksum = "md5:9266f859a8491988b5aae1a35a7cd44d"
+url = "https://zenodo.org/records/2687897/files/Walnut37.zip?download=1"
+checksum = "9266f859a8491988b5aae1a35a7cd44d"
 
 [Walnut38]
-url = "https://zenodo.org/api/records/2688112/files/Walnut38.zip"
-checksum = "md5:162f64f5229c4d6a0645d4cd52636b27"
+url = "https://zenodo.org/records/2688112/files/Walnut38.zip?download=1"
+checksum = "162f64f5229c4d6a0645d4cd52636b27"
 
 [Walnut39]
-url = "https://zenodo.org/api/records/2688112/files/Walnut39.zip"
-checksum = "md5:699f528e77c308e562d11408f61decec"
+url = "https://zenodo.org/records/2688112/files/Walnut39.zip?download=1"
+checksum = "699f528e77c308e562d11408f61decec"
 
 [Walnut40]
-url = "https://zenodo.org/api/records/2688112/files/Walnut40.zip"
-checksum = "md5:2dc769c28476b34cde7061b026f4e713"
+url = "https://zenodo.org/records/2688112/files/Walnut40.zip?download=1"
+checksum = "2dc769c28476b34cde7061b026f4e713"
 
 [Walnut41]
-url = "https://zenodo.org/api/records/2688112/files/Walnut41.zip"
-checksum = "md5:4bd9211469589490fae73ec565e12741"
+url = "https://zenodo.org/records/2688112/files/Walnut41.zip?download=1"
+checksum = "4bd9211469589490fae73ec565e12741"
 
 [Walnut42]
-url = "https://zenodo.org/api/records/2688112/files/Walnut42.zip"
-checksum = "md5:5e04154a339f20cf34fd6d90d90a8d78"
+url = "https://zenodo.org/records/2688112/files/Walnut42.zip?download=1"
+checksum = "5e04154a339f20cf34fd6d90d90a8d78"
+
