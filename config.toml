@@ -1,3 +1,3 @@
 urls = "downloads.toml"
-angular_sub_sampling = 10
+angular_sub_sampling = 6
 recon = "../data/reconstructions"

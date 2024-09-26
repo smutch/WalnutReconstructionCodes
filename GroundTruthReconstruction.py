@@ -219,3 +219,4 @@ def ground_truth_reconstruction(
         imageio.imwrite(slice_path, vol_rec[i, ...])
 
     print(np.round(time.time() - t, 3), "sec elapsed")
+    return recon_path_full
